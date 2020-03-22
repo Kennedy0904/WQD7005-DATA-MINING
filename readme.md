@@ -15,9 +15,10 @@ The Apache Hive ™ data warehouse software facilitates reading, writing, and ma
 	* Hive (2.1.0)
 	
 * For the installation and setup of Hadoop and Hive in Window 10, may refer to	
-	*https://www.youtube.com/watch?v=vLVWrGGqGJU
-	*https://www.youtube.com/watch?v=npyRXkMhrgk&t=383s
-	*https://kontext.tech/column/hadoop/246/install-hadoop-300-in-windows-single-node
+	* https://www.youtube.com/watch?v=vLVWrGGqGJU
+	* https://www.youtube.com/watch?v=npyRXkMhrgk&t=383s
+	* https://kontext.tech/column/hadoop/246/install-hadoop-300-in-windows-single-node
+	
 * Command List
 	* start-dfs (Hadoop)
 	* startnetworkserver -h 0.0.0.0 (Derby)
