@@ -1,0 +1,5 @@
+For the installation and setup of Hadoop and Hive in Window 10, may refer to
+1. https://www.youtube.com/watch?v=vLVWrGGqGJU
+2. https://www.youtube.com/watch?v=npyRXkMhrgk&t=383s
+3. https://kontext.tech/column/hadoop/246/install-hadoop-300-in-windows-single-node
+

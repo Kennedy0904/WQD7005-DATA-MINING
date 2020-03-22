@@ -1,0 +1,3 @@
+* start-dfs (Hadoop)
+* startnetworkserver -h 0.0.0.0 (Derby)
+* hive --service hiveserver2 (Hive)
