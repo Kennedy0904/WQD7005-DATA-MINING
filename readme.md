@@ -2,7 +2,7 @@
 
 Beautiful Soup is a Python package for parsing HTML and XML documents. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping. It is available for Python 2.7 and Python 3. 
 
-* For the video, you may visit https://youtu.be/8PF4_hsSPg0
+* You may visit milestone 1 video [here](https://youtu.be/8PF4_hsSPg0). 
 * Use `jupyter nbconvert --to script 'WebScrapping.ipynb'` to convert ipynb file to py file
 
 # Milestone 2 : Data Warehouse
@@ -24,4 +24,10 @@ The Apache Hive ™ data warehouse software facilitates reading, writing, and ma
 	* startnetworkserver -h 0.0.0.0 (Derby)
 	* hive --service hiveserver2 (Hive)
 
-* For the video, you may visit https://youtu.be/rfcFxVBGDbc
+* You may visit milestone 2 video [here](https://youtu.be/rfcFxVBGDbc).
+
+# Milestone 3 : Data Cleaning
+
+In this part, I demonstrated how to access from database and some pre-processing steps to clean the data.
+
+* You may visit milestone 3 video [here](https://youtu.be/nBqS5gmrQI0).
