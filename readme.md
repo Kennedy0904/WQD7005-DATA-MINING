@@ -36,7 +36,4 @@ In this part, I demonstrated how to access from database and some pre-processing
 
 Data Interpretation is the process of making sense out of a collection of data that has been processed. In this part, I continued the work from Milestone 3 and visualized the sentiment analysis results. Then, I performed data modeling process and compared the performance metrics of each machine leanring algorithm.
 
-* You may visit milestone 4 video [here](https://youtu.be/nBqS5gmrQI0).
-
-
-https://youtu.be/Y1KHkylShA4
+* You may visit milestone 4 video [here](https://youtu.be/Y1KHkylShA4).
