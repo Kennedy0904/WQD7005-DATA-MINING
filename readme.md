@@ -31,3 +31,12 @@ The Apache Hive ™ data warehouse software facilitates reading, writing, and ma
 In this part, I demonstrated how to access from database and some pre-processing steps to clean the data.
 
 * You may visit milestone 3 video [here](https://youtu.be/nBqS5gmrQI0).
+
+# Milestone 4 : Data Interpretation
+
+Data Interpretation is the process of making sense out of a collection of data that has been processed. In this part, I continued the work from Milestone 3 and visualized the sentiment analysis results. Then, I performed data modeling process and compared the performance metrics of each machine leanring algorithm.
+
+* You may visit milestone 4 video [here](https://youtu.be/nBqS5gmrQI0).
+
+
+https://youtu.be/Y1KHkylShA4
