@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>WQD7005 Flask Deployment</h1>
+	<h2>{{ postTitle }}</h2>
+    {% for post in posts %}
+    <div><p>{{ post.Name }}: <b>{{ post.Content }}</b></p></div>
+    {% endfor %}
+{% endblock %}

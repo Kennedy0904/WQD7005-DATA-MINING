@@ -37,3 +37,8 @@ In this part, I demonstrated how to access from database and some pre-processing
 Data Interpretation is the process of making sense out of a collection of data that has been processed. In this part, I continued the work from Milestone 3 and visualized the sentiment analysis results. Then, I performed data modeling process and compared the performance metrics of each machine leanring algorithm.
 
 * You may visit milestone 4 video [here](https://youtu.be/Y1KHkylShA4).
+
+# Milestone 5 : Deployment
+*Kivy project is too big to upload, thus the link to download the project is provided in folder.
+
+* You may visit milestone 5 video [here](https://www.youtube.com/watch?v=Ma0W1T3MHM4).

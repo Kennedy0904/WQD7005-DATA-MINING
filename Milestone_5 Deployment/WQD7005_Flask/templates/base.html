@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      {% if title %}
+      <title>{{ title }} - WQD7005</title>
+      {% else %}
+      <title>Welcome to WQD7005 Project</title>
+      {% endif %}
+	  <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js'></script>
+    </head>
+    <body>
+        <div><strong>Menu:</strong>&nbsp;&nbsp;
+		<a href="/index">[Home]</a>&nbsp;&nbsp;
+		<a href="/sentiment">[Sentiment Analysis]</a>&nbsp;&nbsp;
+		</div>
+		<div><strong>Machine Learning:</strong>&nbsp;&nbsp;
+		<a href="/logreg">[Logistic Regression]</a>&nbsp;&nbsp;
+		<a href="/decisiontree">[Decision Tree]</a>&nbsp;&nbsp;
+		<a href="/randomforest">[Random Forest]</a>&nbsp;&nbsp;
+		<a href="/naivebayes">[Naive Bayes]</a>&nbsp;&nbsp;
+		<a href="/xgboost">[XG Boost]</a>&nbsp;&nbsp;
+		<a href="/svmlinear">[SVM(Linear)]</a>&nbsp;&nbsp;
+		</div>
+        <hr>
+        {% block content %}{% endblock %}
+    </body>
+</html>
