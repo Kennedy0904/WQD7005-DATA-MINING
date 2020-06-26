@@ -15,4 +15,5 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 # Question 2 : Snowflake Diagram
 [Difference Between Star and Snowflake Schema](https://techdifferences.com/difference-between-star-and-snowflake-schema.html)
 
+# Video
 <b> [Link](https://youtu.be/3JuKjUGqqi4) to the presentation video. <b>
