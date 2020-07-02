@@ -23,18 +23,18 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 
 # Question 4 : Apriori & FP Growth Algorithm
 ## Apriori
-- YouTube: Apriori Algorithm with an example
-- mlxtend: Association Rules Generation from Frequent Itemsets
-- Beginner’s Guide To Understanding Apriori Algorithm With Implementation In Python
-- Apriori Algorithm — Know How to Find Frequent Itemsets
-- Implementing Apriori algorithm in Python
-- Association Analysis in Python
-- Market Basket Analysis using R
+- [YouTube: Apriori Algorithm with an example](https://www.youtube.com/watch?v=h_l3b2CIQ_o)
+- [mlxtend: Association Rules Generation from Frequent Itemsets](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/)
+- [Beginner’s Guide To Understanding Apriori Algorithm With Implementation In Python](https://analyticsindiamag.com/beginners-guide-to-understanding-apriori-algorithm-with-implementation-in-python/)
+- [Apriori Algorithm — Know How to Find Frequent Itemsets](https://medium.com/edureka/apriori-algorithm-d7cc648d4f1e)
+- [Implementing Apriori algorithm in Python](https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/)
+- [Association Analysis in Python](https://medium.com/analytics-vidhya/association-analysis-in-python-2b955d0180c)
+- [Market Basket Analysis using R](https://www.datacamp.com/community/tutorials/market-basket-analysis-r#apriori)
 
 ## FP Growth
-- YouTube: FP Growth method with an example
-- mlxtend: Frequent Itemsets via the FP-Growth Algorithm
-- Frequent Pattern (FP) Growth Algorithm In Data Mining
+- [YouTube: FP Growth method with an example](https://www.youtube.com/watch?v=VB8KWm8MXss)
+- [mlxtend: Frequent Itemsets via the FP-Growth Algorithm](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/)
+- [Frequent Pattern (FP) Growth Algorithm In Data Mining](https://www.softwaretestinghelp.com/fp-growth-algorithm-data-mining/)
 
 # Video 
 - [Link](https://youtu.be/3JuKjUGqqi4) to the Q1 & Q2 presentation video.
