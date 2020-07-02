@@ -24,5 +24,5 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 # Question 4 : Apriori & FP Growth Algorithm
 
 # Video 
-<b> [Link](https://youtu.be/3JuKjUGqqi4) to the Q1 & Q2 presentation video. <b>
-<b> [Link](https://www.youtube.com/watch?v=DRB8l6z5uqI) to the Q3 & Q4 presentation video. <b>
+- [Link](https://youtu.be/3JuKjUGqqi4) to the Q1 & Q2 presentation video.
+- [Link](https://www.youtube.com/watch?v=DRB8l6z5uqI) to the Q3 & Q4 presentation video.
