@@ -19,7 +19,7 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 
 
 # Question 3 : Decision Tree Model
-- The motivation is to predict best position of players with their skill attributes.
+<b>The motivation is to predict best position of players with their skill attributes.<b>
 
 # Question 4 : Apriori & FP Growth Algorithm
 ## Apriori
