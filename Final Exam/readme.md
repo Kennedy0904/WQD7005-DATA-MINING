@@ -17,7 +17,7 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 - [Difference Between Star and Snowflake Schema](https://techdifferences.com/difference-between-star-and-snowflake-schema.html)
 - [Modeling Your Dimensional Data Warehouse: Star Schema vs. Snowflake Schema](https://datawarehouseinfo.com/data-warehouse-star-schema-vs-snowflake-schema/)
 
-# Video (Q1 & Q2)
+## Video (Q1 & Q2)
 <b> [Link](https://youtu.be/3JuKjUGqqi4) to the presentation video. <b>
 
 # Question 3 : Decision Tree Model
@@ -25,5 +25,5 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 
 # Question 4 : Apriori & FP Growth Algorithm
 
-# Video (Q3 & Q4)
+## Video (Q3 & Q4)
 <b> [Link](https://www.youtube.com/watch?v=DRB8l6z5uqI) to the presentation video. <b>
