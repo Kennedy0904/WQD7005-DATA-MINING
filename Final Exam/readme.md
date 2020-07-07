@@ -22,6 +22,7 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 <b>The motivation is to predict best position of players with their skill attributes.<b>
 
 # Question 4 : Apriori & FP Growth Algorithm
+
 ## Apriori
 - [YouTube: Apriori Algorithm with an example](https://www.youtube.com/watch?v=h_l3b2CIQ_o)
 - [mlxtend: Association Rules Generation from Frequent Itemsets](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/)
@@ -36,6 +37,11 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 - [mlxtend: Frequent Itemsets via the FP-Growth Algorithm](http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/)
 - [Frequent Pattern (FP) Growth Algorithm In Data Mining](https://www.softwaretestinghelp.com/fp-growth-algorithm-data-mining/)
 
+
+# Question 5 : Density Based Clustering Model
+- DBSCAS vs K-Means
+
 # Video 
 - [Link](https://youtu.be/3JuKjUGqqi4) to the Q1 & Q2 presentation video.
 - [Link](https://www.youtube.com/watch?v=DRB8l6z5uqI) to the Q3 & Q4 presentation video.
+- [Link](https://www.youtube.com/watch?v=KK6BNnENELE) to the Q5 presentation video.
