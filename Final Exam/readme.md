@@ -39,7 +39,7 @@ Scrapy is a free and open-source web-crawling framework written in Python.
 
 
 # Question 5 : Density Based Clustering Model
-- DBSCAS vs K-Means
+- DBSCAN vs K-Means
 
 # Video 
 - [Link](https://youtu.be/3JuKjUGqqi4) to the Q1 & Q2 presentation video.
